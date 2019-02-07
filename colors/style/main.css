@@ -24,8 +24,8 @@ background:url(images/trans_black.png) repeat;-webkit-border-radius: 200px;-moz-
 .menu ul li a span{ display:block; text-align:center; font-size:11px; line-height:15px;}
 .menu ul li img{ display:inline-block;max-width:50%;}
 
-.sliderbg_menu{background: url(images/bg-wedding.jpg) no-repeat center center;background-attachment:fixed; -webkit-background-size: 100%; -moz-background-size: 100%;-o-background-size: 100%;background-size: 100%;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-size: cover;}
-.sliderbg{ background-color:#edab4b;}
+.sliderbg_menu{;background-attachment:fixed; -webkit-background-size: 100%; -moz-background-size: 100%;-o-background-size: 100%;background-size: 100%;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover; background-size: cover;}
+.sliderbg{ background-color:white;}
 
 .scrolltop{ background-color:#edab4b;}
 .gohome{ background-color:#edab4b;}
